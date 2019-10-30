@@ -1,12 +1,12 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-const SettingsScreen = ({ navigation }) => {
+const MusicScreen = ({ navigation }) => {
     return (
         <View>
-            <Text> Settings Screen </Text>
+            <Text> Music </Text>
         </View>
     )
 }
 
-export default SettingsScreen
+export default MusicScreen
